@@ -1,2 +1,3 @@
 # chargepoint
-ChargePoint repository
+# ChargePoint is a server repository and Rating, rollout is a client repository
+
